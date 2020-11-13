@@ -1,0 +1,26 @@
+{
+    "name": "node_modules_practice",
+    "version": "1.0.0",
+    "description": "- [ ] Fork and clone this repo - [ ] Initialize node in your cloned repo so it becomes a node project!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sschneeberg/node_modules_practice.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sschneeberg/node_modules_practice/issues"
+    },
+    "homepage": "https://github.com/sschneeberg/node_modules_practice#readme",
+    "dependencies": {
+        "classnames": "^2.2.6",
+        "is-number": "^7.0.0",
+        "lodash": "^4.17.20",
+        "node-fetch": "^2.6.1"
+    }
+}
